@@ -23,7 +23,9 @@ npx cypress open
 ##### To study the cypress framework, I have used a application called Mark L. That aplication is available in this repository, and you could follow the steps below to run it on your machine.
 
 Initializing API
+
 Go to application/api
+
 ```sh
 yarn install #to install the api requirements
 yarn db:init #initializing database
@@ -38,6 +40,7 @@ npm run db:init
 npm run dev
 ```
 Initializing frontend 
+
 Go to application/web
 
 ```sh
