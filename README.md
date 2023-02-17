@@ -51,8 +51,8 @@ yarn dev #initializing web
 In case of yarn commands does not work, you can use npm commands instead:
 
 ```sh
-- npm install
-- npm run dev
+npm install
+npm run dev
 ```
 
 Running the tests
@@ -60,7 +60,7 @@ Running the tests
 Go to the main directory folder
 
 ```sh
-- yarn cypress run
+yarn cypress run
 or
-- npx cypress run
+npx cypress run
 ```
