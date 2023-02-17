@@ -56,6 +56,7 @@ In case of yarn commands does not work, you can use npm commands instead:
 ```
 
 Running the tests
+
 Go to the main directory folder
 
 ```sh
